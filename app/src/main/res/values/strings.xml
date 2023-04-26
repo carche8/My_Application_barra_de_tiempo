@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application. Barra de Tiempo</string>
+    <string name="play">boton play</string>
+    <string name="progressBar">barra de progreso</string>
+</resources>
